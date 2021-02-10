@@ -1,2 +1,2 @@
 # opencart-sbis-module
-Интеграция opencart с сервисом sbis.ru
+Integration of opencart with the sbis.ru service 
